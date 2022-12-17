@@ -1,0 +1,1 @@
+https://www.tutorialspoint.com/basic-operators-in-shell-scripting
