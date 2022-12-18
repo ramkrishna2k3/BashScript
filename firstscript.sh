@@ -307,18 +307,23 @@ fileName="Operators.docx"
 #       *) "invalid key" echo please type correct breed ;;
 # esac
 
-"or"
+# "or"
 
-echo "please enter a dogs breed"
-echo
-read dogs
+# echo "please enter a dogs breed"
+# echo
+# read dogs
 
-breed=$dogs
+# breed=$dogs
 
-case "$dogs" in
+# case "$dogs" in
 
-    "indie" ) echo "Found in moderate temperature places" ;;
-    "scoobydoo" ) echo "Found only in cartoons" ;;
-    "husky" ) echo "Found in cold places" ;;
-esac
+#     "indie" ) echo "Found in moderate temperature places" ;;
+#     "scoobydoo" ) echo "Found only in cartoons" ;;
+#     "husky" ) echo "Found in cold places" ;;
+# esac
+
+
+##### FUNCTIONS#####
+
+
 
